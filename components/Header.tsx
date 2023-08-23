@@ -19,6 +19,9 @@ const Header = () => {
 						<Link href='/' className='nav-link'>
 							Home
 						</Link>
+						<Link href='/blogs' className='nav-link'>
+							Blogs
+						</Link>
 						<Link href='/facebook' className='nav-link'>
 							Facebook
 						</Link>

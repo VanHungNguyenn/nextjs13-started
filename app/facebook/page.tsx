@@ -12,9 +12,10 @@ const Facebook = () => {
 
 	return (
 		<>
-			<Button variant='primary'>VanHungNguyen</Button>
-			<div>Facebook</div>
-			<button onClick={handleButtonClick}>Back home</button>
+			<div>This is facebook page</div>
+			<Button variant='primary' onClick={handleButtonClick}>
+				Back home
+			</Button>
 		</>
 	)
 }
